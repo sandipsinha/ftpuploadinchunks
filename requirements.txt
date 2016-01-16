@@ -1,0 +1,4 @@
+-e git+git://github.com/sirsgriffin/conman.git@v0.3#egg=conman
+pickleDB==0.4
+pycrypto==2.6.1
+requests==2.9.1

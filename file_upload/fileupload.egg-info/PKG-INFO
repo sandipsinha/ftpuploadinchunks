@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: fileupload
+Version: 0.0.1
+Summary: Wrapper to Oracle Rest API.
+Home-page: UNKNOWN
+Author: Sandip Sinha
+Author-email: sandip.sinha@gmail.com
+License: UNKNOWN
+Description: 
+        file_upload is a python query client that wraps the Oracle Rest API.
+        For uploading data into Oarcle,
+        
+Platform: UNKNOWN

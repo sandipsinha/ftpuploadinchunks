@@ -1,0 +1,1 @@
+-e git+git://github.com/sirsgriffin/conman.git@v0.3#egg=conman

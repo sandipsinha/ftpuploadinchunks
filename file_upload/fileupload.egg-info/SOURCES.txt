@@ -1,0 +1,10 @@
+setup.py
+fileupload/__init__.py
+fileupload/client.py
+fileupload.egg-info/PKG-INFO
+fileupload.egg-info/SOURCES.txt
+fileupload.egg-info/dependency_links.txt
+fileupload.egg-info/requires.txt
+fileupload.egg-info/top_level.txt
+fileupload/helper/exceptions.py
+fileupload/helper/http_lib.py
